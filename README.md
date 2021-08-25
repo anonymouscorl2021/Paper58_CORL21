@@ -13,7 +13,7 @@ Learning curve for collaborative transportation task.
 
 
 ## Performance Table
-| Task                              | Seen      | Unseen    | Differene    | Time Taken Seen | Time Taken Unseen |
+| Task                              | Seen      | Unseen    | Difference   | Time Taken Seen | Time Taken Unseen |
 | --------------------------------- |:---------:| ---------:| ------------:| ---------------:| -----------------:|
 | Collaborative Transportation      | 93.7%     | 87.5%     | 6.2%         | 4.8 s           | 7.4 s             |
 
